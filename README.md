@@ -1,1 +1,1 @@
-# CS104-01-Sprint-1-Endurance
+# CS104-01: Sprint 1 - Endurance
